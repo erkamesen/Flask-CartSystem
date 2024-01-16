@@ -2,11 +2,6 @@
 
 *In this application, you can find a simple flask template along with the cart system, admin panel, user login processes.*
 
-
-# Streamlit Multistep Form
-
-*You can see an example of a multi-step form in this project with streamlit, a library that we can make web applications with Python without front end technologies such as CSS JS etc..*
-
 ## Install & Usage
 
 - *Clone the repository*
